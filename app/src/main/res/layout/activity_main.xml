@@ -41,7 +41,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="32dp"
         android:text="@string/notify"
-        android:background="@color/colorAccent"
+        android:background="@drawable/bg_button_accent"
         android:textColor="@android:color/white"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"

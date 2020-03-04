@@ -4,4 +4,7 @@
     <string name="notify">notificar</string>
     <string name="pause">pausa</string>
     <string name="validation">Intervalo deve ser definido</string>
+    <string name="notified_pause">Alarme Desativado</string>
+    <string name="zero_value" />
+    <string name="notified">Alarme Ativado</string>
 </resources>
